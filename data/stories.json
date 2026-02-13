@@ -2,10 +2,10 @@
   "series": [
     {
       "id": "gossip",
-      "title": "Office Gossip",
+      "title": "Gossip",
       "level": "B2",
       "tag": "Workplace",
-      "description": "Two colleagues gossip about a new intern. Modern workplace slang, educated tone, realistic pacing.",
+      "description": "Office relationships and rumors.",
       "coverImage": "images/gossip/cover.jpg",
       "episodes": [
         {
@@ -194,6 +194,195 @@
               "easy_en": "I hope I’m wrong, but my instincts are usually right.",
               "jp": "違うといいけど…私の勘、だいたい当たるんだよね。",
               "note": "radar = instincts for detecting ‘bad vibes’."
+            }
+          ]
+        },
+        {
+          "id": "ep02",
+          "title": "Episode 02 — First Impression",
+          "level": "B2",
+          "sceneImage": "images/gossip/ep02.jpg",
+          "glossary": [],
+          "lines": [
+            {
+              "speaker": "Mike",
+              "text": "Oh—wow, I am so sorry. That’s completely on me.",
+              "audio": "audio/gossip/ep02/001.mp3",
+              "emotion": "nervous",
+              "easy_en": "It was my fault.",
+              "jp": "完全に僕のミスです。",
+              "note": "that’s on me = I take responsibility."
+            },
+            {
+              "speaker": "Claire",
+              "text": "No, no, I stopped suddenly. We’re even.",
+              "audio": "audio/gossip/ep02/002.mp3",
+              "emotion": "friendly",
+              "easy_en": "It’s both our fault.",
+              "jp": "お互い様だよ。",
+              "note": "we’re even = no one is to blame."
+            },
+            {
+              "speaker": "Mike",
+              "text": "Still, I almost took you out with my coffee. Not a great reputation move for week one.",
+              "audio": "audio/gossip/ep02/003.mp3",
+              "emotion": "awkward",
+              "easy_en": "Bad first impression.",
+              "jp": "初週から印象悪いよね。",
+              "note": "reputation move = something affecting how people see you."
+            },
+            {
+              "speaker": "Claire",
+              "text": "Yeah, HR might open a file called “walking hazard.”",
+              "audio": "audio/gossip/ep02/004.mp3",
+              "emotion": "joking",
+              "easy_en": "HR might think you are dangerous.",
+              "jp": "人事に危険人物扱いされるかもね。",
+              "note": "joke exaggeration."
+            },
+            {
+              "speaker": "Mike",
+              "text": "Please don’t manifest that.",
+              "audio": "audio/gossip/ep02/005.mp3",
+              "emotion": "playful",
+              "easy_en": "Don’t make that become real.",
+              "jp": "それ本当に起きないで。",
+              "note": "manifest = make something happen by saying it."
+            },
+            {
+              "speaker": "Claire",
+              "text": "Relax. I won’t.",
+              "audio": "audio/gossip/ep02/006.mp3",
+              "emotion": "calm",
+              "easy_en": "Don’t worry.",
+              "jp": "大丈夫。",
+              "note": ""
+            },
+            {
+              "speaker": "Mike",
+              "text": "Thanks. I appreciate the mercy.",
+              "audio": "audio/gossip/ep02/007.mp3",
+              "emotion": "light",
+              "easy_en": "Thank you for being kind.",
+              "jp": "優しくしてくれてありがとう。",
+              "note": "slightly dramatic humor."
+            },
+            {
+              "speaker": "Claire",
+              "text": "You’re the new intern, right? Mike?",
+              "audio": "audio/gossip/ep02/008.mp3",
+              "emotion": "friendly",
+              "easy_en": "You are Mike, correct?",
+              "jp": "新しいインターンのマイクだよね？",
+              "note": ""
+            },
+            {
+              "speaker": "Mike",
+              "text": "Guilty. Still figuring out where everything is.",
+              "audio": "audio/gossip/ep02/009.mp3",
+              "emotion": "easygoing",
+              "easy_en": "Yes, that’s me. I’m still learning.",
+              "jp": "そう、まだ色々覚えてる途中。",
+              "note": "guilty = yes, that’s me."
+            },
+            {
+              "speaker": "Claire",
+              "text": "Honestly? Solid strategy.",
+              "audio": "audio/gossip/ep02/010.mp3",
+              "emotion": "teasing",
+              "easy_en": "That’s actually smart.",
+              "jp": "むしろ賢いね。",
+              "note": ""
+            },
+            {
+              "speaker": "Mike",
+              "text": "You joke, but that’s my entire game plan.",
+              "audio": "audio/gossip/ep02/011.mp3",
+              "emotion": "funny",
+              "easy_en": "I’m serious. That’s my plan.",
+              "jp": "冗談じゃなくて本当にそれが作戦。",
+              "note": "game plan = strategy."
+            },
+            {
+              "speaker": "Claire",
+              "text": "You’re doing fine so far.",
+              "audio": "audio/gossip/ep02/012.mp3",
+              "emotion": "warm",
+              "easy_en": "You’re okay.",
+              "jp": "今のところ順調だよ。",
+              "note": ""
+            },
+            {
+              "speaker": "Mike",
+              "text": "That’s generous. I feel like I’m improvising.",
+              "audio": "audio/gossip/ep02/013.mp3",
+              "emotion": "honest",
+              "easy_en": "I’m making it up as I go.",
+              "jp": "その場しのぎでやってる感じ。",
+              "note": "improvising = acting without preparation."
+            },
+            {
+              "speaker": "Claire",
+              "text": "Fake it till you make it.",
+              "audio": "audio/gossip/ep02/014.mp3",
+              "emotion": "bright",
+              "easy_en": "Pretend until you succeed.",
+              "jp": "できるようになるまで演じるの。",
+              "note": "common idiom."
+            },
+            {
+              "speaker": "Mike",
+              "text": "Though I prefer “adapt in real time.”",
+              "audio": "audio/gossip/ep02/015.mp3",
+              "emotion": "confident",
+              "easy_en": "I adjust quickly.",
+              "jp": "リアルタイムで対応してるだけ。",
+              "note": "sounds more professional."
+            },
+            {
+              "speaker": "Claire",
+              "text": "Oh, I like that. Sounds more employable.",
+              "audio": "audio/gossip/ep02/016.mp3",
+              "emotion": "playful",
+              "easy_en": "That sounds better for work.",
+              "jp": "その方が仕事できそうに聞こえる。",
+              "note": ""
+            },
+            {
+              "speaker": "Mike",
+              "text": "I try to be marketable.",
+              "audio": "audio/gossip/ep02/017.mp3",
+              "emotion": "cool",
+              "easy_en": "I try to look valuable.",
+              "jp": "価値ある人材に見せたいんだ。",
+              "note": "professional humor."
+            },
+            {
+              "speaker": "Claire",
+              "text": "You recovered pretty smoothly.",
+              "audio": "audio/gossip/ep02/018.mp3",
+              "emotion": "impressed",
+              "easy_en": "You handled it well.",
+              "jp": "うまく立て直したね。",
+              "note": ""
+            },
+            {
+              "speaker": "Mike",
+              "text": "Thanks. I owe you one.",
+              "audio": "audio/gossip/ep02/019.mp3",
+              "emotion": "warm",
+              "easy_en": "I’ll return the favor.",
+              "jp": "今度お礼させて。",
+              "note": "common friendly promise."
+            },
+            {
+              "speaker": "Claire",
+              "text": "I’ll remember you said that.",
+              "audio": "audio/gossip/ep02/020.mp3",
+              "emotion": "smiling",
+              "easy_en": "I won’t forget.",
+              "jp": "覚えておくからね。",
+              "note": "light flirting."
             }
           ]
         }
