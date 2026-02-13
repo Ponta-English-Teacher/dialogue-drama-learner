@@ -1,0 +1,203 @@
+{
+  "series": [
+    {
+      "id": "gossip",
+      "title": "Office Gossip",
+      "level": "B2",
+      "tag": "Workplace",
+      "description": "Two colleagues gossip about a new intern. Modern workplace slang, educated tone, realistic pacing.",
+      "coverImage": "images/gossip/cover.jpg",
+      "episodes": [
+        {
+          "id": "ep01",
+          "title": "Episode 01 — New Intern, Old Problems",
+          "level": "B2",
+          "sceneImage": "images/gossip/ep01.jpg",
+          "glossary": [],
+          "lines": [
+            {
+              "speaker": "Claire",
+              "text": "Have you heard Mike, the new intern, is a total womanizer?",
+              "audio": "audio/gossip/ep01/001.mp3",
+              "emotion": "serious",
+              "easy_en": "Did you hear Mike flirts with lots of women?",
+              "jp": "聞いた？新しいインターンのマイク、完全に女たらしらしいよ。",
+              "note": "womanizer = a man who flirts/dates many women in a dishonest way."
+            },
+            {
+              "speaker": "Nina",
+              "text": "I mean… I didn’t want to say it, but yeah. The vibe is loud.",
+              "audio": "audio/gossip/ep01/002.mp3",
+              "emotion": "serious",
+              "easy_en": "I didn’t want to say it, but yes. It’s really obvious.",
+              "jp": "まあ…言いたくなかったけど、うん。雰囲気が強烈に出てる。",
+              "note": "the vibe is loud = it’s obvious / the impression is very strong."
+            },
+            {
+              "speaker": "Claire",
+              "text": "Right? It’s like he’s running a networking event nobody asked for.",
+              "audio": "audio/gossip/ep01/003.mp3",
+              "emotion": "serious",
+              "easy_en": "It feels like he’s constantly trying to meet people and impress them.",
+              "jp": "だよね？誰も頼んでないのに、勝手に交流会を主催してるみたい。",
+              "note": "networking event = event to make connections; nobody asked for = unnecessary/annoying."
+            },
+            {
+              "speaker": "Nina",
+              "text": "And somehow it’s always one-on-one with whoever just got hired.",
+              "audio": "audio/gossip/ep01/004.mp3",
+              "emotion": "serious",
+              "easy_en": "And it’s always private, just him and the newest hire.",
+              "jp": "しかも不思議と、いつも“入ったばかりの人”と1対1なんだよね。",
+              "note": "one-on-one = private conversation; implies targeted behavior."
+            },
+            {
+              "speaker": "Claire",
+              "text": "Funny how that works.",
+              "audio": "audio/gossip/ep01/005.mp3",
+              "emotion": "serious",
+              "easy_en": "Yeah… what a coincidence. (Not really.)",
+              "jp": "へえ〜不思議だね。（棒）",
+              "note": "Sarcastic line. Means: ‘That’s not an accident.’"
+            },
+            {
+              "speaker": "Nina",
+              "text": "He calls it “mentoring.” I call it a pattern.",
+              "audio": "audio/gossip/ep01/006.mp3",
+              "emotion": "serious",
+              "easy_en": "He says it’s mentoring, but I think it’s repeated behavior.",
+              "jp": "本人は“指導してるだけ”って言うけど、私は“パターン”だと思う。",
+              "note": "a pattern = repeated behavior that shows intent."
+            },
+            {
+              "speaker": "Claire",
+              "text": "The way he leans in when he talks? Personal space is on life support.",
+              "audio": "audio/gossip/ep01/007.mp3",
+              "emotion": "serious",
+              "easy_en": "He stands too close. People’s personal space is almost gone.",
+              "jp": "話す時の距離の近さね。パーソナルスペースが瀕死。",
+              "note": "on life support = almost dying; humorous exaggeration."
+            },
+            {
+              "speaker": "Nina",
+              "text": "Barely breathing. HR would need CPR.",
+              "audio": "audio/gossip/ep01/008.mp3",
+              "emotion": "serious",
+              "easy_en": "It’s really bad. HR would panic if they saw it.",
+              "jp": "息してないレベル。人事が見たら心肺蘇生案件。",
+              "note": "HR = Human Resources; CPR joke continues the ‘life support’ metaphor."
+            },
+            {
+              "speaker": "Claire",
+              "text": "Stop 💀",
+              "audio": "audio/gossip/ep01/009.mp3",
+              "emotion": "neutral",
+              "easy_en": "Stop, that’s too funny / too harsh.",
+              "jp": "やめて（笑）",
+              "note": "💀 means ‘I’m dead (laughing).’ Internet humor."
+            },
+            {
+              "speaker": "Nina",
+              "text": "I’m serious. And he’s way too smooth for someone who started last week.",
+              "audio": "audio/gossip/ep01/010.mp3",
+              "emotion": "serious",
+              "easy_en": "I’m serious. He’s too practiced for someone brand-new.",
+              "jp": "いや本気。先週入ったばかりなのに、妙に手慣れてる。",
+              "note": "too smooth = overly charming / polished."
+            },
+            {
+              "speaker": "Claire",
+              "text": "Exactly. Confidence is fine. Auditions for Bachelor? Not required.",
+              "audio": "audio/gossip/ep01/011.mp3",
+              "emotion": "neutral",
+              "easy_en": "Confidence is okay, but he acts like he’s on a dating show.",
+              "jp": "そう。自信はいいけど、『恋愛番組のオーディション』は要らない。",
+              "note": "Bachelor = reality dating show; joke implies performative flirting."
+            },
+            {
+              "speaker": "Nina",
+              "text": "Did you see him at happy hour? Working the room like it’s a campaign trail.",
+              "audio": "audio/gossip/ep01/012.mp3",
+              "emotion": "neutral",
+              "easy_en": "At happy hour, he talked to everyone like a politician.",
+              "jp": "ハッピーアワー見た？選挙活動みたいに全員に挨拶して回ってた。",
+              "note": "working the room = talking to many people; campaign trail = political events."
+            },
+            {
+              "speaker": "Claire",
+              "text": "Shaking hands, collecting numbers, promising absolutely nothing.",
+              "audio": "audio/gossip/ep01/013.mp3",
+              "emotion": "neutral",
+              "easy_en": "He greeted people, got phone numbers, but offered nothing real.",
+              "jp": "握手して、連絡先集めて、何も約束しない。",
+              "note": "collecting numbers = getting phone contacts; implies shallow charm."
+            },
+            {
+              "speaker": "Nina",
+              "text": "Classic.",
+              "audio": "audio/gossip/ep01/014.mp3",
+              "emotion": "neutral",
+              "easy_en": "Typical behavior. Nothing new.",
+              "jp": "ありがち。",
+              "note": "Classic = ‘so typical’ (slightly judgmental)."
+            },
+            {
+              "speaker": "Claire",
+              "text": "And the compliments? Copy-paste energy.",
+              "audio": "audio/gossip/ep01/015.mp3",
+              "emotion": "neutral",
+              "easy_en": "His compliments feel generic, like he reuses the same lines.",
+              "jp": "褒め言葉もさ、コピペ感すごい。",
+              "note": "copy-paste energy = feels recycled, not sincere."
+            },
+            {
+              "speaker": "Nina",
+              "text": "Mass-produced charm. Factory settings.",
+              "audio": "audio/gossip/ep01/016.mp3",
+              "emotion": "serious",
+              "easy_en": "His charm feels standard and automatic, not personal.",
+              "jp": "大量生産の魅力。初期設定のまま。",
+              "note": "factory settings = default mode; implies unoriginal charm."
+            },
+            {
+              "speaker": "Claire",
+              "text": "I just wonder who’s actually buying it.",
+              "audio": "audio/gossip/ep01/017.mp3",
+              "emotion": "friendly",
+              "easy_en": "I wonder who believes him and falls for it.",
+              "jp": "で、誰がそれに本気で引っかかるんだろうね。",
+              "note": "buying it = believing it / falling for it."
+            },
+            {
+              "speaker": "Nina",
+              "text": "Oh, someone always does. There’s a market for mediocrity.",
+              "audio": "audio/gossip/ep01/018.mp3",
+              "emotion": "neutral",
+              "easy_en": "Someone always falls for it. Average charm still works on people.",
+              "jp": "いるよ、必ず。凡庸にも需要はあるから。",
+              "note": "market for mediocrity = sarcastic: even mediocre people get attention."
+            },
+            {
+              "speaker": "Claire",
+              "text": "Savage.",
+              "audio": "audio/gossip/ep01/019.mp3",
+              "emotion": "neutral",
+              "easy_en": "That was harsh (but true).",
+              "jp": "辛辣（笑）",
+              "note": "Savage = brutally honest / harsh."
+            },
+            {
+              "speaker": "Nina",
+              "text": "Listen, I hope I’m wrong… but my radar rarely lies.",
+              "audio": "audio/gossip/ep01/020.mp3",
+              "emotion": "serious",
+              "easy_en": "I hope I’m wrong, but my instincts are usually right.",
+              "jp": "違うといいけど…私の勘、だいたい当たるんだよね。",
+              "note": "radar = instincts for detecting ‘bad vibes’."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

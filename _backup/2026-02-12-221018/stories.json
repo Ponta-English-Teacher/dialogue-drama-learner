@@ -1,0 +1,45 @@
+{
+  "series": [
+    {
+      "id": "office-drama",
+      "title": "Office Drama",
+      "level": "B1–B2",
+      "tag": "Business",
+      "description": "Human drama at work: trust, pressure, and small misunderstandings.",
+      "coverImage": "images/office-drama/cover.jpg",
+      "episodes": [
+        {
+          "id": "ep01",
+          "title": "Episode 1 — A New Project",
+          "level": "B1",
+          "sceneImage": "images/office-drama/ep01.jpg",
+          "glossary": [
+            {
+              "word": "deadline",
+              "meaning_en": "the time by which something must be finished",
+              "meaning_jp": "締め切り"
+            }
+          ],
+          "lines": [
+            {
+              "speaker": "Emma",
+              "text": "Are you free this afternoon?",
+              "audio": "audio/office-drama/ep01/001.mp3",
+              "easy_en": "Do you have time later today?",
+              "jp": "今日の午後、時間ある？",
+              "note": "Casual and friendly. She wants to suggest something."
+            },
+            {
+              "speaker": "Ryan",
+              "text": "I might be. What’s up?",
+              "audio": "audio/office-drama/ep01/002.mp3",
+              "easy_en": "Maybe. What do you need?",
+              "jp": "たぶん大丈夫かな。どうしたの？",
+              "note": "He is open but unsure. He invites her to explain."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

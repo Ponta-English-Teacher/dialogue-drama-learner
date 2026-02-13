@@ -1,0 +1,204 @@
+{
+  "series": [
+    {
+      "id": "office-drama",
+      "title": "Office Drama",
+      "level": "B1–B2",
+      "tag": "Business",
+      "description": "Human drama at work: trust, pressure, and small misunderstandings.",
+      "coverImage": "images/office-drama/cover.jpg",
+      "episodes": [
+        {
+          "id": "ep03",
+          "title": "Episode 03 — ...",
+          "level": "B1",
+          "sceneImage": "images/office-drama/ep03.jpg",
+          "glossary": [],
+          "lines": [
+            {
+              "speaker": "Emma",
+              "text": "Do you want to grab dinner after we finish?",
+              "audio": "audio/office-drama/ep03/001.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Ryan",
+              "text": "Tonight?",
+              "audio": "audio/office-drama/ep03/002.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Emma",
+              "text": "Yes. If we can get everything done.",
+              "audio": "audio/office-drama/ep03/003.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Ryan",
+              "text": "That depends on marketing.",
+              "audio": "audio/office-drama/ep03/004.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Emma",
+              "text": "I know, but we’ll manage.",
+              "audio": "audio/office-drama/ep03/005.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Ryan",
+              "text": "Alright. If we hit the deadline, dinner is on me.",
+              "audio": "audio/office-drama/ep03/006.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Emma",
+              "text": "Deal. Then let’s focus.",
+              "audio": "audio/office-drama/ep03/007.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Ryan",
+              "text": "Agreed. Back to work.",
+              "audio": "audio/office-drama/ep03/008.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Hotel-drama",
+      "title": "Office Drama",
+      "level": "B1–B2",
+      "tag": "Business",
+      "description": "Human drama at work: trust, pressure, and small misunderstandings.",
+      "coverImage": "images/Hotel-drama/cover.jpg",
+      "episodes": [
+        {
+          "id": "ep01",
+          "title": "Episode 01 — ...",
+          "level": "B1",
+          "sceneImage": "images/Hotel-drama/ep01.jpg",
+          "glossary": [],
+          "lines": [
+            {
+              "speaker": "Anna",
+              "text": "Good evening. Welcome to the Grand Hotel.",
+              "audio": "audio/Hotel-drama/ep01/001.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Mark",
+              "text": "Hi. I have a reservation under Tanaka.",
+              "audio": "audio/Hotel-drama/ep01/002.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Anna",
+              "text": "Let me check. Yes, I see it here.",
+              "audio": "audio/Hotel-drama/ep01/003.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Mark",
+              "text": "Great.",
+              "audio": "audio/Hotel-drama/ep01/004.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hotel-drama",
+      "title": "Office Drama",
+      "level": "B1–B2",
+      "tag": "Business",
+      "description": "Human drama at work: trust, pressure, and small misunderstandings.",
+      "coverImage": "images/hotel-drama/cover.jpg",
+      "episodes": [
+        {
+          "id": "ep02",
+          "title": "Episode 02 — ...",
+          "level": "B1",
+          "sceneImage": "images/hotel-drama/ep02.jpg",
+          "glossary": [],
+          "lines": [
+            {
+              "speaker": "Emma",
+              "text": "",
+              "audio": "audio/hotel-drama/ep02/001.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

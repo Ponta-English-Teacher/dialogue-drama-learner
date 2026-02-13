@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Dialogue Drama Library</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <button id="backBtn" class="iconBtn" aria-label="Back" hidden>←</button>
+    <div class="titleWrap">
+      <div class="appTitle">Dialogue Drama Library</div>
+      <div id="crumb" class="crumb">Choose a Series</div>
+    </div>
+  </header>
+
+  <main class="main">
+    <section id="listView" class="panel"></section>
+
+    <section id="playerView" class="panel" hidden>
+      <div class="sceneCard">
+        <img id="sceneImg" class="sceneImg" alt="Scene image" />
+      </div>
+
+      <div id="lines" class="lines"></div>
+
+      <div class="controls">
+        <button id="prevLineBtn" class="controlBtn" title="Previous line">⟨</button>
+        <button id="playAllBtn" class="controlBtn primary">▶ Play All</button>
+        <button id="nextLineBtn" class="controlBtn" title="Next line">⟩</button>
+      </div>
+
+      <div class="subControls">
+        <button id="supportBtn" class="ghostBtn" disabled>Support</button>
+        <button id="glossaryBtn" class="ghostBtn">Glossary</button>
+        <button id="helpBtn" class="ghostBtn">Help</button>
+      </div>
+    </section>
+  </main>
+
+  <!-- NEW: Line Support Modal -->
+  <dialog id="supportDialog" class="modal">
+    <div class="modalHead">
+      <div class="modalTitle">Line Support</div>
+      <button class="iconBtn" id="closeSupportBtn" aria-label="Close">✕</button>
+    </div>
+    <div class="modalBody">
+      <div class="supportMeta">
+        <div id="supportSpeaker" class="supportSpeaker"></div>
+        <div id="supportText" class="supportText"></div>
+      </div>
+
+      <div class="supportBlock">
+        <div class="supportLabel">Easy English</div>
+        <div id="supportEasyEn" class="supportValue muted"></div>
+      </div>
+
+      <div class="supportBlock">
+        <div class="supportLabel">Japanese</div>
+        <div id="supportJp" class="supportValue muted"></div>
+      </div>
+
+      <div class="supportBlock">
+        <div class="supportLabel">Note</div>
+        <div id="supportNote" class="supportValue muted"></div>
+      </div>
+    </div>
+  </dialog>
+
+  <dialog id="glossaryDialog" class="modal">
+    <div class="modalHead">
+      <div class="modalTitle">Glossary</div>
+      <button class="iconBtn" id="closeGlossaryBtn" aria-label="Close">✕</button>
+    </div>
+    <div id="glossaryBody" class="modalBody"></div>
+  </dialog>
+
+  <dialog id="helpDialog" class="modal">
+    <div class="modalHead">
+      <div class="modalTitle">Help</div>
+      <button class="iconBtn" id="closeHelpBtn" aria-label="Close">✕</button>
+    </div>
+    <div class="modalBody">
+      <p><b>How to use</b></p>
+      <ul>
+        <li>Tap a line to play its audio.</li>
+        <li>Use <b>Play All</b> to play from the beginning.</li>
+        <li><b>Support</b> shows Easy English, Japanese, and a note for the selected line.</li>
+        <li>Glossary shows key words prepared by the creator.</li>
+      </ul>
+      <p class="muted">This app never generates audio. It only plays files.</p>
+    </div>
+  </dialog>
+
+  <audio id="audio" preload="auto"></audio>
+  <script src="./app.js"></script>
+</body>
+</html>

@@ -1,0 +1,488 @@
+{
+  "series": [
+    {
+      "id": "office-drama",
+      "title": "Office Drama",
+      "level": "B1–B2",
+      "tag": "Business",
+      "description": "Human drama at work: trust, pressure, and small misunderstandings.",
+      "coverImage": "images/office-drama/cover.jpg",
+      "episodes": [
+        {
+          "id": "ep01",
+          "title": "Episode 1 — A New Project",
+          "level": "B1",
+          "sceneImage": "images/office-drama/ep01.jpg",
+          "glossary": [
+            {
+              "word": "deadline",
+              "meaning_en": "the time by which something must be finished",
+              "meaning_jp": "締め切り"
+            }
+          ],
+          "lines": [
+            {
+              "speaker": "Emma",
+              "text": "Are you free this afternoon?",
+              "audio": "audio/office-drama/ep01/001.mp3",
+              "easy_en": "Do you have time later today?",
+              "jp": "今日の午後、時間ある？",
+              "note": "Casual and friendly. She wants to suggest something."
+            },
+            {
+              "speaker": "Ryan",
+              "text": "I might be. What’s up?",
+              "audio": "audio/office-drama/ep01/002.mp3",
+              "easy_en": "Maybe. What do you need?",
+              "jp": "たぶん大丈夫かな。どうしたの？",
+              "note": "He is open but unsure. He invites her to explain."
+            }
+          ]
+        },
+        {
+          "id": "ep03",
+          "title": "Episode 03 — ...",
+          "level": "B1",
+          "sceneImage": "images/office-drama/ep03.jpg",
+          "glossary": [],
+          "lines": [
+            {
+              "speaker": "Emma",
+              "text": "Do you want to grab dinner after we finish?",
+              "audio": "audio/office-drama/ep03/001.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Ryan",
+              "text": "Tonight?",
+              "audio": "audio/office-drama/ep03/002.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Emma",
+              "text": "Yes. If we can get everything done.",
+              "audio": "audio/office-drama/ep03/003.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Ryan",
+              "text": "That depends on marketing.",
+              "audio": "audio/office-drama/ep03/004.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Emma",
+              "text": "I know, but we’ll manage.",
+              "audio": "audio/office-drama/ep03/005.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Ryan",
+              "text": "Alright. If we hit the deadline, dinner is on me.",
+              "audio": "audio/office-drama/ep03/006.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Emma",
+              "text": "Deal. Then let’s focus.",
+              "audio": "audio/office-drama/ep03/007.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Ryan",
+              "text": "Agreed. Back to work.",
+              "audio": "audio/office-drama/ep03/008.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dating",
+      "title": "Office Drama",
+      "level": "B1–B2",
+      "tag": "Relationships",
+      "description": "A dating couple’s story: awkward moments, honest talk, small misunderstandings.",
+      "coverImage": "images/dating/cover.jpg",
+      "episodes": [
+        {
+          "id": "ep01",
+          "title": "First Coffee",
+          "level": "B1",
+          "sceneImage": "images/dating/ep01.jpg",
+          "glossary": [],
+          "lines": [
+            {
+              "speaker": "Mia",
+              "text": "Hi. Sorry I’m a little late.",
+              "audio": "audio/dating/ep01/001.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Leo",
+              "text": "No problem. I just got here too.",
+              "audio": "audio/dating/ep01/002.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Mia",
+              "text": "This place is cute. Do you come here often?",
+              "audio": "audio/dating/ep01/003.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Leo",
+              "text": "Sometimes. The coffee is good, and it’s quiet.",
+              "audio": "audio/dating/ep01/004.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Mia",
+              "text": "Good. I’m not great at loud places on a first date.",
+              "audio": "audio/dating/ep01/005.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Leo",
+              "text": "Same. I get nervous and talk too fast.",
+              "audio": "audio/dating/ep01/006.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Mia",
+              "text": "Me too. But right now, I feel okay.",
+              "audio": "audio/dating/ep01/007.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Leo",
+              "text": "That’s a relief. So… what do you usually do on weekends?",
+              "audio": "audio/dating/ep01/008.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gossip",
+      "title": "Office Drama",
+      "level": "B1–B2",
+      "tag": "Business",
+      "description": "Human drama at work: trust, pressure, and small misunderstandings.",
+      "coverImage": "images/gossip/cover.jpg",
+      "episodes": [
+        {
+          "id": "ep01",
+          "title": "Episode 01 — ...",
+          "level": "B1",
+          "sceneImage": "images/gossip/ep01.jpg",
+          "glossary": [],
+          "lines": [
+            {
+              "speaker": "Claire",
+              "text": "Have you heard Mike, the new intern, is a total womanizer?",
+              "audio": "audio/gossip/ep01/001.mp3",
+              "emotion": "serious",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Nina",
+              "text": "I mean… I didn’t want to say it, but yeah. The vibe is loud.",
+              "audio": "audio/gossip/ep01/002.mp3",
+              "emotion": "serious",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Claire",
+              "text": "Right? It’s like he’s running a networking event nobody asked for.",
+              "audio": "audio/gossip/ep01/003.mp3",
+              "emotion": "serious",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Nina",
+              "text": "And somehow it’s always one-on-one with whoever just got hired.",
+              "audio": "audio/gossip/ep01/004.mp3",
+              "emotion": "serious",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Claire",
+              "text": "Funny how that works.",
+              "audio": "audio/gossip/ep01/005.mp3",
+              "emotion": "serious",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Nina",
+              "text": "He calls it “mentoring.” I call it a pattern.",
+              "audio": "audio/gossip/ep01/006.mp3",
+              "emotion": "serious",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Claire",
+              "text": "The way he leans in when he talks? Personal space is on life support.",
+              "audio": "audio/gossip/ep01/007.mp3",
+              "emotion": "serious",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Nina",
+              "text": "Barely breathing. HR would need CPR.",
+              "audio": "audio/gossip/ep01/008.mp3",
+              "emotion": "serious",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Claire",
+              "text": "Stop 💀",
+              "audio": "audio/gossip/ep01/009.mp3",
+              "emotion": "angry",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Nina",
+              "text": "I’m serious. And he’s way too smooth for someone who started last week.",
+              "audio": "audio/gossip/ep01/010.mp3",
+              "emotion": "serious",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Claire",
+              "text": "Exactly. Confidence is fine. Auditions for Bachelor? Not required.",
+              "audio": "audio/gossip/ep01/011.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Nina",
+              "text": "Did you see him at happy hour? Working the room like it’s a campaign trail.",
+              "audio": "audio/gossip/ep01/012.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Claire",
+              "text": "Shaking hands, collecting numbers, promising absolutely nothing.",
+              "audio": "audio/gossip/ep01/013.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Nina",
+              "text": "Classic.",
+              "audio": "audio/gossip/ep01/014.mp3",
+              "emotion": "angry",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Claire",
+              "text": "And the compliments? Copy-paste energy.",
+              "audio": "audio/gossip/ep01/015.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Nina",
+              "text": "Mass-produced charm. Factory settings.",
+              "audio": "audio/gossip/ep01/016.mp3",
+              "emotion": "serious",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Claire",
+              "text": "I just wonder who’s actually buying it.",
+              "audio": "audio/gossip/ep01/017.mp3",
+              "emotion": "friendly",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Nina",
+              "text": "Oh, someone always does. There’s a market for mediocrity.",
+              "audio": "audio/gossip/ep01/018.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Claire",
+              "text": "Savage.",
+              "audio": "audio/gossip/ep01/019.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Nina",
+              "text": "Listen, I hope I’m wrong… but my radar rarely lies.",
+              "audio": "audio/gossip/ep01/020.mp3",
+              "emotion": "serious",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

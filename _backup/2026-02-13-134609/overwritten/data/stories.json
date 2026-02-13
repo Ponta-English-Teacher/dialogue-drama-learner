@@ -1,0 +1,249 @@
+{
+  "series": [
+    {
+      "id": "office-drama",
+      "title": "Office Drama",
+      "level": "B1–B2",
+      "tag": "Business",
+      "description": "Human drama at work: trust, pressure, and small misunderstandings.",
+      "coverImage": "images/office-drama/cover.jpg",
+      "episodes": [
+        {
+          "id": "ep01",
+          "title": "Episode 1 — A New Project",
+          "level": "B1",
+          "sceneImage": "images/office-drama/ep01.jpg",
+          "glossary": [
+            {
+              "word": "deadline",
+              "meaning_en": "the time by which something must be finished",
+              "meaning_jp": "締め切り"
+            }
+          ],
+          "lines": [
+            {
+              "speaker": "Emma",
+              "text": "Are you free this afternoon?",
+              "audio": "audio/office-drama/ep01/001.mp3",
+              "easy_en": "Do you have time later today?",
+              "jp": "今日の午後、時間ある？",
+              "note": "Casual and friendly. She wants to suggest something."
+            },
+            {
+              "speaker": "Ryan",
+              "text": "I might be. What’s up?",
+              "audio": "audio/office-drama/ep01/002.mp3",
+              "easy_en": "Maybe. What do you need?",
+              "jp": "たぶん大丈夫かな。どうしたの？",
+              "note": "He is open but unsure. He invites her to explain."
+            }
+          ]
+        },
+        {
+          "id": "ep03",
+          "title": "Episode 03 — ...",
+          "level": "B1",
+          "sceneImage": "images/office-drama/ep03.jpg",
+          "glossary": [],
+          "lines": [
+            {
+              "speaker": "Emma",
+              "text": "Do you want to grab dinner after we finish?",
+              "audio": "audio/office-drama/ep03/001.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Ryan",
+              "text": "Tonight?",
+              "audio": "audio/office-drama/ep03/002.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Emma",
+              "text": "Yes. If we can get everything done.",
+              "audio": "audio/office-drama/ep03/003.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Ryan",
+              "text": "That depends on marketing.",
+              "audio": "audio/office-drama/ep03/004.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Emma",
+              "text": "I know, but we’ll manage.",
+              "audio": "audio/office-drama/ep03/005.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Ryan",
+              "text": "Alright. If we hit the deadline, dinner is on me.",
+              "audio": "audio/office-drama/ep03/006.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Emma",
+              "text": "Deal. Then let’s focus.",
+              "audio": "audio/office-drama/ep03/007.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Ryan",
+              "text": "Agreed. Back to work.",
+              "audio": "audio/office-drama/ep03/008.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dating",
+      "title": "Office Drama",
+      "level": "B1–B2",
+      "tag": "Relationships",
+      "description": "A dating couple’s story: awkward moments, honest talk, small misunderstandings.",
+      "coverImage": "images/dating/cover.jpg",
+      "episodes": [
+        {
+          "id": "ep01",
+          "title": "First Coffee",
+          "level": "B1",
+          "sceneImage": "images/dating/ep01.jpg",
+          "glossary": [],
+          "lines": [
+            {
+              "speaker": "Mia",
+              "text": "Hi. Sorry I’m a little late.",
+              "audio": "audio/dating/ep01/001.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Leo",
+              "text": "No problem. I just got here too.",
+              "audio": "audio/dating/ep01/002.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Mia",
+              "text": "This place is cute. Do you come here often?",
+              "audio": "audio/dating/ep01/003.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Leo",
+              "text": "Sometimes. The coffee is good, and it’s quiet.",
+              "audio": "audio/dating/ep01/004.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Mia",
+              "text": "Good. I’m not great at loud places on a first date.",
+              "audio": "audio/dating/ep01/005.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Leo",
+              "text": "Same. I get nervous and talk too fast.",
+              "audio": "audio/dating/ep01/006.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Mia",
+              "text": "Me too. But right now, I feel okay.",
+              "audio": "audio/dating/ep01/007.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            },
+            {
+              "speaker": "Leo",
+              "text": "That’s a relief. So… what do you usually do on weekends?",
+              "audio": "audio/dating/ep01/008.mp3",
+              "emotion": "neutral",
+              "support": {
+                "easy_en": "",
+                "jp": "",
+                "note": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
