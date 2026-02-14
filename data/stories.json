@@ -2,10 +2,10 @@
   "series": [
     {
       "id": "gossip",
-      "title": "Gossip",
-      "level": "B2",
-      "tag": "Workplace",
-      "description": "Office relationships and rumors.",
+      "title": "Office Drama",
+      "level": "B1–B2",
+      "tag": "Business",
+      "description": "Human drama at work: trust, pressure, and small misunderstandings.",
       "coverImage": "images/gossip/cover.jpg",
       "episodes": [
         {
@@ -383,6 +383,348 @@
               "easy_en": "I won’t forget.",
               "jp": "覚えておくからね。",
               "note": "light flirting."
+            }
+          ]
+        },
+        {
+          "id": "ep03",
+          "title": "Episode 03 — Defender Mode",
+          "level": "B1",
+          "sceneImage": "images/gossip/ep03.jpg",
+          "glossary": [],
+          "lines": [
+            {
+              "speaker": "Nina",
+              "text": "Girl. It got worse.",
+              "audio": "audio/gossip/ep03/001.mp3",
+              "emotion": "serious",
+              "easy_en": "It became worse.",
+              "jp": "ねえ、さらにひどくなってよ。",
+              "note": "Girl = casual way to address a female friend."
+            },
+            {
+              "speaker": "Claire",
+              "text": "That sounds expensive. What happened?",
+              "audio": "audio/gossip/ep03/002.mp3",
+              "emotion": "neutral",
+              "easy_en": "That sounds serious. What happened?",
+              "jp": "それ大事になりそう。何があったの？",
+              "note": "sounds expensive = will cause trouble."
+            },
+            {
+              "speaker": "Nina",
+              "text": "Mike. Julia. Happy hour. Full performance.",
+              "audio": "audio/gossip/ep03/003.mp3",
+              "emotion": "serious",
+              "easy_en": "Mike acted dramatically with Julia at happy hour.",
+              "jp": "マイクがジュリアに、ハッピーアワーで全力だった。",
+              "note": "Full performance = acting to impress."
+            },
+            {
+              "speaker": "Claire",
+              "text": "Performance is a strong word.",
+              "audio": "audio/gossip/ep03/004.mp3",
+              "emotion": "neutral",
+              "easy_en": "That might be an exaggeration.",
+              "jp": "それはちょっと言いすぎかも。",
+              "note": "strong word = too extreme."
+            },
+            {
+              "speaker": "Nina",
+              "text": "Leaning in, voice low, eye contact like a job interview.",
+              "audio": "audio/gossip/ep03/005.mp3",
+              "emotion": "serious",
+              "easy_en": "He moved close, spoke softly, and stared seriously.",
+              "jp": "身を乗り出して、低い声で、面接みたいな目線。",
+              "note": "Describes intense flirting behavior."
+            },
+            {
+              "speaker": "Claire",
+              "text": "Or he was just talking?",
+              "audio": "audio/gossip/ep03/006.mp3",
+              "emotion": "neutral",
+              "easy_en": "Maybe he was only having a conversation?",
+              "jp": "ただ話してただけじゃない？",
+              "note": "defensive interpretation."
+            },
+            {
+              "speaker": "Nina",
+              "text": "Oh no. You are not defending him.",
+              "audio": "audio/gossip/ep03/007.mp3",
+              "emotion": "angry",
+              "easy_en": "Wait. Don’t support him.",
+              "jp": "ちょっと、かばわないで。",
+              "note": "shows disbelief."
+            },
+            {
+              "speaker": "Claire",
+              "text": "I’m evaluating the evidence.",
+              "audio": "audio/gossip/ep03/008.mp3",
+              "emotion": "neutral",
+              "easy_en": "I’m trying to judge fairly.",
+              "jp": "公平に判断してるの。",
+              "note": "formal phrase used humorously."
+            },
+            {
+              "speaker": "Nina",
+              "text": "The evidence has abs.",
+              "audio": "audio/gossip/ep03/009.mp3",
+              "emotion": "neutral",
+              "easy_en": "You like him because he’s attractive.",
+              "jp": "証拠に腹筋ついてるでしょ。",
+              "note": "joke = looks affect judgment."
+            },
+            {
+              "speaker": "Claire",
+              "text": "Please.",
+              "audio": "audio/gossip/ep03/010.mp3",
+              "emotion": "neutral",
+              "easy_en": "Stop it.",
+              "jp": "もうやめて。",
+              "note": "mild protest."
+            },
+            {
+              "speaker": "Nina",
+              "text": "He rotates women like calendar reminders.",
+              "audio": "audio/gossip/ep03/011.mp3",
+              "emotion": "serious",
+              "easy_en": "He changes women very frequently.",
+              "jp": "カレンダー通知みたいに女性を入れ替えてる。",
+              "note": "rotate = change regularly."
+            },
+            {
+              "speaker": "Claire",
+              "text": "That is wildly dramatic.",
+              "audio": "audio/gossip/ep03/012.mp3",
+              "emotion": "neutral",
+              "easy_en": "That’s too dramatic.",
+              "jp": "大げさすぎ。",
+              "note": "wildly = very."
+            },
+            {
+              "speaker": "Nina",
+              "text": "That is wildly observed.",
+              "audio": "audio/gossip/ep03/013.mp3",
+              "emotion": "neutral",
+              "easy_en": "I’ve seen it clearly.",
+              "jp": "しっかり観察した結果よ。",
+              "note": "she insists it’s factual."
+            },
+            {
+              "speaker": "Claire",
+              "text": "Julia didn’t look traumatized today.",
+              "audio": "audio/gossip/ep03/014.mp3",
+              "emotion": "neutral",
+              "easy_en": "Julia didn’t seem upset.",
+              "jp": "ジュリア、傷ついてる感じなかったよ。",
+              "note": "traumatized = emotionally hurt."
+            },
+            {
+              "speaker": "Nina",
+              "text": "Because charm is step one. Regret is step two.",
+              "audio": "audio/gossip/ep03/015.mp3",
+              "emotion": "serious",
+              "easy_en": "First comes attraction, then disappointment.",
+              "jp": "最初は魅力、次に後悔。",
+              "note": "prediction pattern."
+            },
+            {
+              "speaker": "Claire",
+              "text": "Or maybe she had fun?",
+              "audio": "audio/gossip/ep03/016.mp3",
+              "emotion": "neutral",
+              "easy_en": "Maybe she enjoyed it.",
+              "jp": "普通に楽しかったのかも。",
+              "note": "simple counter argument."
+            },
+            {
+              "speaker": "Nina",
+              "text": "Why are you suddenly his PR team?",
+              "audio": "audio/gossip/ep03/017.mp3",
+              "emotion": "angry",
+              "easy_en": "Why are you protecting his image?",
+              "jp": "なんで急に広報担当なの？",
+              "note": "PR team = people who defend someone."
+            },
+            {
+              "speaker": "Claire",
+              "text": "I ran into him yesterday, okay?",
+              "audio": "audio/gossip/ep03/018.mp3",
+              "emotion": "neutral",
+              "easy_en": "I met him by chance yesterday.",
+              "jp": "昨日たまたま会ったの。",
+              "note": "ran into = met unexpectedly."
+            },
+            {
+              "speaker": "Nina",
+              "text": "Aha.",
+              "audio": "audio/gossip/ep03/019.mp3",
+              "emotion": "neutral",
+              "easy_en": "Oh really?",
+              "jp": "へえ〜。",
+              "note": "shows suspicion."
+            },
+            {
+              "speaker": "Claire",
+              "text": "We talked. He was nice. Normal.",
+              "audio": "audio/gossip/ep03/020.mp3",
+              "emotion": "neutral",
+              "easy_en": "He behaved politely.",
+              "jp": "普通にいい人だった。",
+              "note": "defensive summary."
+            },
+            {
+              "speaker": "Nina",
+              "text": "That’s how it starts.",
+              "audio": "audio/gossip/ep03/021.mp3",
+              "emotion": "serious",
+              "easy_en": "Problems begin like that.",
+              "jp": "そこから始まるのよ。",
+              "note": "ominous warning."
+            },
+            {
+              "speaker": "Claire",
+              "text": "You think he’s running a master plan?",
+              "audio": "audio/gossip/ep03/022.mp3",
+              "emotion": "neutral",
+              "easy_en": "You think he is planning everything?",
+              "jp": "全部計算してるってこと？",
+              "note": "master plan = big strategy."
+            },
+            {
+              "speaker": "Nina",
+              "text": "I think men like him always are.",
+              "audio": "audio/gossip/ep03/023.mp3",
+              "emotion": "serious",
+              "easy_en": "Yes, people like him usually do.",
+              "jp": "ああいうタイプはね。",
+              "note": "generalization."
+            },
+            {
+              "speaker": "Claire",
+              "text": "I didn’t feel manipulated.",
+              "audio": "audio/gossip/ep03/024.mp3",
+              "emotion": "neutral",
+              "easy_en": "I didn’t feel controlled.",
+              "jp": "操作されてる感じはなかった。",
+              "note": "manipulated = controlled emotionally."
+            },
+            {
+              "speaker": "Nina",
+              "text": "Yet.",
+              "audio": "audio/gossip/ep03/025.mp3",
+              "emotion": "serious",
+              "easy_en": "Not yet.",
+              "jp": "まだね。",
+              "note": "implies future danger."
+            },
+            {
+              "speaker": "Claire",
+              "text": "You are impossible.",
+              "audio": "audio/gossip/ep03/026.mp3",
+              "emotion": "neutral",
+              "easy_en": "You are too much.",
+              "jp": "ほんと大変。",
+              "note": "light frustration."
+            },
+            {
+              "speaker": "Nina",
+              "text": "I am experienced.",
+              "audio": "audio/gossip/ep03/027.mp3",
+              "emotion": "neutral",
+              "easy_en": "I know from experience.",
+              "jp": "経験上ね。",
+              "note": "self-confidence."
+            },
+            {
+              "speaker": "Claire",
+              "text": "Maybe he’s different one-on-one.",
+              "audio": "audio/gossip/ep03/028.mp3",
+              "emotion": "neutral",
+              "easy_en": "Maybe he behaves differently in private.",
+              "jp": "1対1だと違うのかも。",
+              "note": "one-on-one = private."
+            },
+            {
+              "speaker": "Nina",
+              "text": "Maybe the strategy upgrades.",
+              "audio": "audio/gossip/ep03/029.mp3",
+              "emotion": "serious",
+              "easy_en": "Maybe he just improves his method.",
+              "jp": "戦略が進化するだけかも。",
+              "note": "sarcastic reply."
+            },
+            {
+              "speaker": "Claire",
+              "text": "You hear yourself, right?",
+              "audio": "audio/gossip/ep03/030.mp3",
+              "emotion": "neutral",
+              "easy_en": "You realize what you’re saying?",
+              "jp": "自分で言っててわかってる？",
+              "note": "questioning logic."
+            },
+            {
+              "speaker": "Nina",
+              "text": "Crystal.",
+              "audio": "audio/gossip/ep03/031.mp3",
+              "emotion": "neutral",
+              "easy_en": "Very clearly.",
+              "jp": "もちろん。",
+              "note": "short for crystal clear."
+            },
+            {
+              "speaker": "Claire",
+              "text": "I think you might be wrong.",
+              "audio": "audio/gossip/ep03/032.mp3",
+              "emotion": "neutral",
+              "easy_en": "Maybe you are mistaken.",
+              "jp": "間違ってるかもよ。",
+              "note": "soft disagreement."
+            },
+            {
+              "speaker": "Nina",
+              "text": "I think time will expose him.",
+              "audio": "audio/gossip/ep03/033.mp3",
+              "emotion": "serious",
+              "easy_en": "We will discover the truth later.",
+              "jp": "時間が暴くと思う。",
+              "note": "expose = reveal truth."
+            },
+            {
+              "speaker": "Claire",
+              "text": "You’re exhausting.",
+              "audio": "audio/gossip/ep03/034.mp3",
+              "emotion": "neutral",
+              "easy_en": "Talking to you is tiring.",
+              "jp": "ほんと疲れる。",
+              "note": "playful complaint."
+            },
+            {
+              "speaker": "Nina",
+              "text": "I’m protective.",
+              "audio": "audio/gossip/ep03/035.mp3",
+              "emotion": "friendly",
+              "easy_en": "I want to protect you.",
+              "jp": "守りたいの。",
+              "note": "shows care."
+            },
+            {
+              "speaker": "Claire",
+              "text": "Of me?",
+              "audio": "audio/gossip/ep03/036.mp3",
+              "emotion": "friendly",
+              "easy_en": "You mean me?",
+              "jp": "私を？",
+              "note": "seeking confirmation."
+            },
+            {
+              "speaker": "Nina",
+              "text": "Obviously.",
+              "audio": "audio/gossip/ep03/037.mp3",
+              "emotion": "friendly",
+              "easy_en": "Of course.",
+              "jp": "当たり前でしょ。",
+              "note": "strong affirmation."
             }
           ]
         }
