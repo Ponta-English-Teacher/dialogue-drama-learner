@@ -727,6 +727,348 @@
               "note": "strong affirmation."
             }
           ]
+        },
+        {
+          "id": "ep04",
+          "title": "Episode 04 — Trial by Chopsticks",
+          "level": "B2",
+          "sceneImage": "images/gossip/ep04.jpg",
+          "glossary": [],
+          "lines": [
+            {
+              "speaker": "Mike",
+              "text": "Have you had lunch yet? I need variation. I’ve had that sandwich downstairs way too many times.",
+              "audio": "audio/gossip/ep04/001.mp3",
+              "emotion": "casual",
+              "easy_en": "Did you eat lunch? I want something different. I’ve eaten that sandwich too many times.",
+              "jp": "もう昼ごはん食べた？何か違うものがほしいんだ。あの下のサンドイッチ、食べすぎてる。",
+              "note": "“way too many times” = much more than is reasonable."
+            },
+            {
+              "speaker": "Claire",
+              "text": "Already tired of it? It’s week three.",
+              "audio": "audio/gossip/ep04/002.mp3",
+              "emotion": "teasing",
+              "easy_en": "You’re tired of it already? It’s only the third week.",
+              "jp": "もう飽きたの？まだ3週目だよ。",
+              "note": "Light teasing tone."
+            },
+            {
+              "speaker": "Mike",
+              "text": "I evolve fast. There’s a Japanese place nearby.",
+              "audio": "audio/gossip/ep04/003.mp3",
+              "emotion": "playful",
+              "easy_en": "I change quickly. There is a Japanese restaurant close by.",
+              "jp": "変わるのは早いんだよ。近くに和食の店がある。",
+              "note": "“I evolve fast” is humorous exaggeration."
+            },
+            {
+              "speaker": "Claire",
+              "text": "Are you actually good with chopsticks?",
+              "audio": "audio/gossip/ep04/004.mp3",
+              "emotion": "curious",
+              "easy_en": "Can you really use chopsticks well?",
+              "jp": "本当にお箸うまく使えるの？",
+              "note": "“actually” adds doubt."
+            },
+            {
+              "speaker": "Mike",
+              "text": "Define “good.”",
+              "audio": "audio/gossip/ep04/005.mp3",
+              "emotion": "defensive",
+              "easy_en": "What do you mean by good?",
+              "jp": "「うまい」ってどういう意味？",
+              "note": "Used humorously to avoid answering directly."
+            },
+            {
+              "speaker": "Claire",
+              "text": "That’s not confidence.",
+              "audio": "audio/gossip/ep04/006.mp3",
+              "emotion": "teasing",
+              "easy_en": "That doesn’t sound confident.",
+              "jp": "それは自信がある言い方じゃないね。",
+              "note": ""
+            },
+            {
+              "speaker": "Mike",
+              "text": "Come supervise me.",
+              "audio": "audio/gossip/ep04/007.mp3",
+              "emotion": "flirty",
+              "easy_en": "Come watch me and check me.",
+              "jp": "見張っててよ。",
+              "note": "Slightly flirtatious invitation."
+            },
+            {
+              "speaker": "Claire",
+              "text": "Wow. Bold. Fine. Let’s go.",
+              "audio": "audio/gossip/ep04/008.mp3",
+              "emotion": "amused",
+              "easy_en": "That’s bold. Okay, let’s go.",
+              "jp": "へえ、強気だね。いいよ、行こう。",
+              "note": ""
+            },
+            {
+              "speaker": "Mike",
+              "text": "That sound makes it feel official.",
+              "audio": "audio/gossip/ep04/009.mp3",
+              "emotion": "playful",
+              "easy_en": "That sound makes this feel serious.",
+              "jp": "あの音でなんだか正式っぽく感じる。",
+              "note": "“official” = ceremonious feeling."
+            },
+            {
+              "speaker": "Claire",
+              "text": "It’s just a door bell. Relax.",
+              "audio": "audio/gossip/ep04/010.mp3",
+              "emotion": "calm",
+              "easy_en": "It’s only a bell. Calm down.",
+              "jp": "ただのドアベルだよ。落ち着いて。",
+              "note": ""
+            },
+            {
+              "speaker": "Mike",
+              "text": "Okay but if I drop sushi, pretend you don’t know me.",
+              "audio": "audio/gossip/ep04/011.mp3",
+              "emotion": "nervous",
+              "easy_en": "If I drop sushi, act like you don’t know me.",
+              "jp": "もし寿司落としたら、他人のふりしてね。",
+              "note": "Common expression for embarrassment."
+            },
+            {
+              "speaker": "Claire",
+              "text": "I absolutely will.",
+              "audio": "audio/gossip/ep04/012.mp3",
+              "emotion": "deadpan",
+              "easy_en": "Yes, I definitely will.",
+              "jp": "もちろんそうする。",
+              "note": "Deadpan humor."
+            },
+            {
+              "speaker": "Mike",
+              "text": "Rude.",
+              "audio": "audio/gossip/ep04/013.mp3",
+              "emotion": "mock-offended",
+              "easy_en": "That’s mean.",
+              "jp": "ひどいな。",
+              "note": ""
+            },
+            {
+              "speaker": "Claire",
+              "text": "You’re holding them like drumsticks.",
+              "audio": "audio/gossip/ep04/014.mp3",
+              "emotion": "teasing",
+              "easy_en": "You’re holding chopsticks like drum sticks.",
+              "jp": "ドラムスティックみたいに持ってるよ。",
+              "note": "Visual comparison."
+            },
+            {
+              "speaker": "Mike",
+              "text": "I panic under observation.",
+              "audio": "audio/gossip/ep04/015.mp3",
+              "emotion": "honest",
+              "easy_en": "I get nervous when people watch me.",
+              "jp": "見られてると緊張するんだ。",
+              "note": ""
+            },
+            {
+              "speaker": "Claire",
+              "text": "You’re not as chaotic one-on-one.",
+              "audio": "audio/gossip/ep04/016.mp3",
+              "emotion": "observing",
+              "easy_en": "You’re less messy when it’s just two people.",
+              "jp": "1対1だと、そこまでカオスじゃないね。",
+              "note": "“chaotic” = unpredictable behavior."
+            },
+            {
+              "speaker": "Mike",
+              "text": "That sounds… loaded.",
+              "audio": "audio/gossip/ep04/017.mp3",
+              "emotion": "curious",
+              "easy_en": "That sounds like it has hidden meaning.",
+              "jp": "それ、なんか含みがあるね。",
+              "note": "“loaded” = emotionally charged."
+            },
+            {
+              "speaker": "Claire",
+              "text": "You’ve heard people talk.",
+              "audio": "audio/gossip/ep04/018.mp3",
+              "emotion": "serious",
+              "easy_en": "You know people talk about you.",
+              "jp": "みんなが話してるの、知ってるでしょ。",
+              "note": ""
+            },
+            {
+              "speaker": "Mike",
+              "text": "About my supposed reputation?",
+              "audio": "audio/gossip/ep04/019.mp3",
+              "emotion": "guarded",
+              "easy_en": "About the reputation people say I have?",
+              "jp": "僕の“評判”について？",
+              "note": "“supposed” shows doubt."
+            },
+            {
+              "speaker": "Claire",
+              "text": "Something like that.",
+              "audio": "audio/gossip/ep04/020.mp3",
+              "emotion": "neutral",
+              "easy_en": "Yes, kind of.",
+              "jp": "まあ、そんな感じ。",
+              "note": ""
+            },
+            {
+              "speaker": "Mike",
+              "text": "And what’s the verdict?",
+              "audio": "audio/gossip/ep04/021.mp3",
+              "emotion": "light",
+              "easy_en": "So what’s your decision?",
+              "jp": "で、判決は？",
+              "note": "Court metaphor."
+            },
+            {
+              "speaker": "Claire",
+              "text": "Jury’s still out.",
+              "audio": "audio/gossip/ep04/022.mp3",
+              "emotion": "calm",
+              "easy_en": "I haven’t decided yet.",
+              "jp": "まだ判断してない。",
+              "note": "Idiom from legal system."
+            },
+            {
+              "speaker": "Mike",
+              "text": "Good. I like a fair trial.",
+              "audio": "audio/gossip/ep04/023.mp3",
+              "emotion": "playful",
+              "easy_en": "Good. I want a fair chance.",
+              "jp": "いいね。公平な審理が好きなんだ。",
+              "note": ""
+            },
+            {
+              "speaker": "Claire",
+              "text": "Don’t flirt with the judge.",
+              "audio": "audio/gossip/ep04/024.mp3",
+              "emotion": "warning-playful",
+              "easy_en": "Don’t try to charm the judge.",
+              "jp": "裁判官に色目使わないで。",
+              "note": "Continues the court metaphor."
+            },
+            {
+              "speaker": "Mike",
+              "text": "I’m just trying not to embarrass myself.",
+              "audio": "audio/gossip/ep04/025.mp3",
+              "emotion": "honest",
+              "easy_en": "I don’t want to look bad.",
+              "jp": "ただ恥をかきたくないだけ。",
+              "note": ""
+            },
+            {
+              "speaker": "Claire",
+              "text": "You’re doing fine.",
+              "audio": "audio/gossip/ep04/026.mp3",
+              "emotion": "soft",
+              "easy_en": "You’re doing well.",
+              "jp": "うまくやってるよ。",
+              "note": ""
+            },
+            {
+              "speaker": "Mike",
+              "text": "That sounded almost impressed.",
+              "audio": "audio/gossip/ep04/027.mp3",
+              "emotion": "teasing",
+              "easy_en": "That sounded like you were impressed.",
+              "jp": "今ちょっと感心してたよね？",
+              "note": ""
+            },
+            {
+              "speaker": "Claire",
+              "text": "Don’t get used to it.",
+              "audio": "audio/gossip/ep04/028.mp3",
+              "emotion": "teasing",
+              "easy_en": "Don’t expect it again.",
+              "jp": "調子に乗らないでね。",
+              "note": ""
+            },
+            {
+              "speaker": "Mike",
+              "text": "Noted.",
+              "audio": "audio/gossip/ep04/029.mp3",
+              "emotion": "dry",
+              "easy_en": "I understand.",
+              "jp": "了解。",
+              "note": "Slightly formal humor."
+            },
+            {
+              "speaker": "Claire",
+              "text": "But… one-on-one? You’re different.",
+              "audio": "audio/gossip/ep04/030.mp3",
+              "emotion": "reflective",
+              "easy_en": "When it’s just us, you’re different.",
+              "jp": "でも、1対1だと…あなた違うね。",
+              "note": ""
+            },
+            {
+              "speaker": "Mike",
+              "text": "Different good or different suspicious?",
+              "audio": "audio/gossip/ep04/031.mp3",
+              "emotion": "curious",
+              "easy_en": "Is it good different or strange different?",
+              "jp": "良い意味で？それとも怪しい意味で？",
+              "note": ""
+            },
+            {
+              "speaker": "Claire",
+              "text": "Still deciding.",
+              "audio": "audio/gossip/ep04/032.mp3",
+              "emotion": "calm",
+              "easy_en": "I’m still thinking.",
+              "jp": "まだ決めてない。",
+              "note": ""
+            },
+            {
+              "speaker": "Mike",
+              "text": "Guess I’ll have to earn it.",
+              "audio": "audio/gossip/ep04/033.mp3",
+              "emotion": "determined",
+              "easy_en": "I’ll have to prove myself.",
+              "jp": "自分で証明しないとね。",
+              "note": ""
+            },
+            {
+              "speaker": "Claire",
+              "text": "With chopstick skills?",
+              "audio": "audio/gossip/ep04/034.mp3",
+              "emotion": "teasing",
+              "easy_en": "By using chopsticks well?",
+              "jp": "箸の腕前で？",
+              "note": ""
+            },
+            {
+              "speaker": "Mike",
+              "text": "Exactly.",
+              "audio": "audio/gossip/ep04/035.mp3",
+              "emotion": "confident",
+              "easy_en": "Yes, exactly.",
+              "jp": "その通り。",
+              "note": ""
+            },
+            {
+              "speaker": "Claire",
+              "text": "Then you’re in trouble.",
+              "audio": "audio/gossip/ep04/036.mp3",
+              "emotion": "playful",
+              "easy_en": "Then you might have a problem.",
+              "jp": "それは大変だね。",
+              "note": ""
+            },
+            {
+              "speaker": "Mike",
+              "text": "Worth it.",
+              "audio": "audio/gossip/ep04/037.mp3",
+              "emotion": "confident",
+              "easy_en": "It’s worth the risk.",
+              "jp": "それでも価値はある。",
+              "note": ""
+            }
+          ]
         }
       ]
     }
