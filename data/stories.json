@@ -1069,6 +1069,393 @@
               "note": ""
             }
           ]
+        },
+        {
+          "id": "ep05",
+          "title": "Episode 05 — Source",
+          "level": "B1",
+          "sceneImage": "images/gossip/ep05.jpg",
+          "glossary": [],
+          "lines": [
+            {
+              "speaker": "Nina",
+              "text": "So… I need to tell you something.",
+              "audio": "audio/gossip/ep05/001.mp3",
+              "emotion": "hesitant",
+              "easy_en": "I have something important to tell you.",
+              "jp": "ねえ…ちょっと話したいことがあるの。",
+              "note": "The pause “So…” shows hesitation."
+            },
+            {
+              "speaker": "Claire",
+              "text": "That tone never brings peace.",
+              "audio": "audio/gossip/ep05/002.mp3",
+              "emotion": "wry",
+              "easy_en": "When you talk like that, it’s usually bad news.",
+              "jp": "その口調は、だいたい波乱の予感しかしない。",
+              "note": "Dry humor; “never brings peace” = always causes trouble."
+            },
+            {
+              "speaker": "Nina",
+              "text": "Mike. Lunch. Not alone.",
+              "audio": "audio/gossip/ep05/003.mp3",
+              "emotion": "serious",
+              "easy_en": "Mike had lunch with someone. He wasn’t alone.",
+              "jp": "マイク。昼ごはん。ひとりじゃなかった。",
+              "note": "Short fragments to sound dramatic."
+            },
+            {
+              "speaker": "Claire",
+              "text": "That depends.",
+              "audio": "audio/gossip/ep05/004.mp3",
+              "emotion": "guarded",
+              "easy_en": "It depends what you mean.",
+              "jp": "それは状況によるね。",
+              "note": "Claire doesn’t react emotionally yet."
+            },
+            {
+              "speaker": "Nina",
+              "text": "Accounting girl. Brown hair. Very close conversation.",
+              "audio": "audio/gossip/ep05/005.mp3",
+              "emotion": "concerned",
+              "easy_en": "A brown-haired girl from Accounting. They were talking very closely.",
+              "jp": "経理の子。茶色っぽい髪。すごく近い距離で話してたって。",
+              "note": "“close conversation” implies intimacy without saying it directly."
+            },
+            {
+              "speaker": "Claire",
+              "text": "What time?",
+              "audio": "audio/gossip/ep05/006.mp3",
+              "emotion": "controlled",
+              "easy_en": "When was it?",
+              "jp": "何時頃？",
+              "note": "Claire goes factual to test the rumor."
+            },
+            {
+              "speaker": "Nina",
+              "text": "Around twelve.",
+              "audio": "audio/gossip/ep05/007.mp3",
+              "emotion": "matter-of-fact",
+              "easy_en": "About noon.",
+              "jp": "12時くらい。",
+              "note": ""
+            },
+            {
+              "speaker": "Claire",
+              "text": "That’s interesting.",
+              "audio": "audio/gossip/ep05/008.mp3",
+              "emotion": "cool",
+              "easy_en": "That’s curious.",
+              "jp": "それは面白いね。",
+              "note": "Often used when you suspect something is off."
+            },
+            {
+              "speaker": "Nina",
+              "text": "Why are you so calm?",
+              "audio": "audio/gossip/ep05/009.mp3",
+              "emotion": "confused",
+              "easy_en": "Why aren’t you surprised?",
+              "jp": "なんでそんなに落ち着いてるの？",
+              "note": ""
+            },
+            {
+              "speaker": "Claire",
+              "text": "Because I was with him at twelve.",
+              "audio": "audio/gossip/ep05/010.mp3",
+              "emotion": "firm",
+              "easy_en": "Because I was with him at noon.",
+              "jp": "だって、12時は私が一緒にいたから。",
+              "note": "Claire reveals the key fact."
+            },
+            {
+              "speaker": "Nina",
+              "text": "…You?",
+              "audio": "audio/gossip/ep05/011.mp3",
+              "emotion": "shocked",
+              "easy_en": "You were?",
+              "jp": "…え、あなた？",
+              "note": "Ellipsis shows surprise."
+            },
+            {
+              "speaker": "Claire",
+              "text": "Japanese place. Chopstick crisis.",
+              "audio": "audio/gossip/ep05/012.mp3",
+              "emotion": "dry",
+              "easy_en": "At a Japanese restaurant. He struggled with chopsticks.",
+              "jp": "和食の店。箸が大惨事だった。",
+              "note": "“crisis” is humorous exaggeration."
+            },
+            {
+              "speaker": "Nina",
+              "text": "That’s not what I heard.",
+              "audio": "audio/gossip/ep05/013.mp3",
+              "emotion": "insistent",
+              "easy_en": "That’s different from what I heard.",
+              "jp": "私が聞いた話と違う。",
+              "note": ""
+            },
+            {
+              "speaker": "Claire",
+              "text": "Then what exactly did you hear?",
+              "audio": "audio/gossip/ep05/014.mp3",
+              "emotion": "probing",
+              "easy_en": "So what did you hear exactly?",
+              "jp": "じゃあ、具体的に何を聞いたの？",
+              "note": "Claire pushes for a source and details."
+            },
+            {
+              "speaker": "Nina",
+              "text": "That he was leaning in. Smiling. Full charm mode.",
+              "audio": "audio/gossip/ep05/015.mp3",
+              "emotion": "warning",
+              "easy_en": "He was leaning close, smiling, acting very charming.",
+              "jp": "身を乗り出して、ニコニコして、完全に口説きモードだったって。",
+              "note": "“charm mode” = acting charming on purpose."
+            },
+            {
+              "speaker": "Claire",
+              "text": "He was negotiating with sushi.",
+              "audio": "audio/gossip/ep05/016.mp3",
+              "emotion": "sarcastic",
+              "easy_en": "He was just struggling with sushi and chopsticks.",
+              "jp": "彼は寿司と交渉してただけ。",
+              "note": "Funny metaphor: “negotiating” = trying not to drop it."
+            },
+            {
+              "speaker": "Nina",
+              "text": "I’m serious.",
+              "audio": "audio/gossip/ep05/017.mp3",
+              "emotion": "frustrated",
+              "easy_en": "I’m not joking.",
+              "jp": "真面目に言ってるの。",
+              "note": ""
+            },
+            {
+              "speaker": "Claire",
+              "text": "So am I.",
+              "audio": "audio/gossip/ep05/018.mp3",
+              "emotion": "steady",
+              "easy_en": "Me too.",
+              "jp": "私も。",
+              "note": "Claire matches Nina’s seriousness."
+            },
+            {
+              "speaker": "Nina",
+              "text": "Mark from Sales saw them.",
+              "audio": "audio/gossip/ep05/019.mp3",
+              "emotion": "certain",
+              "easy_en": "Mark from Sales saw them.",
+              "jp": "営業のマークが見たって。",
+              "note": "Introduces the rumor source."
+            },
+            {
+              "speaker": "Claire",
+              "text": "Mark?",
+              "audio": "audio/gossip/ep05/020.mp3",
+              "emotion": "skeptical",
+              "easy_en": "Mark? Really?",
+              "jp": "マーク？",
+              "note": "One-word question shows doubt."
+            },
+            {
+              "speaker": "Nina",
+              "text": "He mentioned it to Julia.",
+              "audio": "audio/gossip/ep05/021.mp3",
+              "emotion": "explaining",
+              "easy_en": "He told Julia about it.",
+              "jp": "ジュリアに言ったらしい。",
+              "note": ""
+            },
+            {
+              "speaker": "Claire",
+              "text": "Mark also thinks every brown blazer works in Accounting.",
+              "audio": "audio/gossip/ep05/022.mp3",
+              "emotion": "wry",
+              "easy_en": "Mark thinks anyone in a brown blazer must be from Accounting.",
+              "jp": "マークは茶色いジャケット着てると全員“経理”だと思ってるから。",
+              "note": "Make Mark the joke: he’s confidently wrong, not the women."
+            },
+            {
+              "speaker": "Nina",
+              "text": "Wait.",
+              "audio": "audio/gossip/ep05/023.mp3",
+              "emotion": "realizing",
+              "easy_en": "Wait…",
+              "jp": "待って。",
+              "note": "She starts connecting the dots."
+            },
+            {
+              "speaker": "Claire",
+              "text": "I was wearing a brown blazer.",
+              "audio": "audio/gossip/ep05/024.mp3",
+              "emotion": "matter-of-fact",
+              "easy_en": "I was wearing a brown blazer.",
+              "jp": "今日、私が茶色いジャケット着てた。",
+              "note": ""
+            },
+            {
+              "speaker": "Nina",
+              "text": "Oh.",
+              "audio": "audio/gossip/ep05/025.mp3",
+              "emotion": "embarrassed",
+              "easy_en": "Oh…",
+              "jp": "あ…",
+              "note": "Short reaction = sudden understanding."
+            },
+            {
+              "speaker": "Claire",
+              "text": "And I sit three floors above Accounting.",
+              "audio": "audio/gossip/ep05/026.mp3",
+              "emotion": "dry",
+              "easy_en": "And my desk is three floors above Accounting.",
+              "jp": "それに、私の席は経理より3階上。",
+              "note": "Adds proof that Mark’s claim is sloppy."
+            },
+            {
+              "speaker": "Nina",
+              "text": "That explains… a lot.",
+              "audio": "audio/gossip/ep05/027.mp3",
+              "emotion": "relieved",
+              "easy_en": "That makes sense now.",
+              "jp": "それで…いろいろ納得。",
+              "note": "Ellipsis shows she is rethinking."
+            },
+            {
+              "speaker": "Claire",
+              "text": "Or Mark enjoys narrating things creatively.",
+              "audio": "audio/gossip/ep05/028.mp3",
+              "emotion": "sharp",
+              "easy_en": "Or Mark likes telling stories in a dramatic way.",
+              "jp": "それか、マークが話を盛るのが好きなだけ。",
+              "note": "“narrating creatively” = exaggerating / spinning."
+            },
+            {
+              "speaker": "Nina",
+              "text": "You think he twisted it?",
+              "audio": "audio/gossip/ep05/029.mp3",
+              "emotion": "curious",
+              "easy_en": "You think he changed the story?",
+              "jp": "話をねじ曲げたってこと？",
+              "note": ""
+            },
+            {
+              "speaker": "Claire",
+              "text": "I think he likes being first with information.",
+              "audio": "audio/gossip/ep05/030.mp3",
+              "emotion": "cool",
+              "easy_en": "I think he likes being the first to share news.",
+              "jp": "彼は“いち早く情報を出す人”でいたいんだと思う。",
+              "note": "About status: being first feels powerful."
+            },
+            {
+              "speaker": "Nina",
+              "text": "He does love an audience.",
+              "audio": "audio/gossip/ep05/031.mp3",
+              "emotion": "agreeing",
+              "easy_en": "Yes, he likes attention.",
+              "jp": "たしかに、注目されるの好きだよね。",
+              "note": ""
+            },
+            {
+              "speaker": "Claire",
+              "text": "And Mike is competition.",
+              "audio": "audio/gossip/ep05/032.mp3",
+              "emotion": "analytical",
+              "easy_en": "And Mike is a rival to him.",
+              "jp": "それに、マイクはライバルになり得る。",
+              "note": "Competition = attention, success, influence."
+            },
+            {
+              "speaker": "Nina",
+              "text": "You think this is jealousy?",
+              "audio": "audio/gossip/ep05/033.mp3",
+              "emotion": "concerned",
+              "easy_en": "So you think Mark is jealous?",
+              "jp": "じゃあ、嫉妬ってこと？",
+              "note": ""
+            },
+            {
+              "speaker": "Claire",
+              "text": "I think it’s boredom with ambition.",
+              "audio": "audio/gossip/ep05/034.mp3",
+              "emotion": "cutting",
+              "easy_en": "I think he’s bored, and he wants attention.",
+              "jp": "退屈で、目立ちたいだけだと思う。",
+              "note": "A sharp judgment: not deep hatred, just shallow motives."
+            },
+            {
+              "speaker": "Nina",
+              "text": "That’s sharp.",
+              "audio": "audio/gossip/ep05/035.mp3",
+              "emotion": "impressed",
+              "easy_en": "That’s a harsh but smart point.",
+              "jp": "それ、鋭いね。",
+              "note": "“sharp” = insightful, a little harsh."
+            },
+            {
+              "speaker": "Claire",
+              "text": "I had front-row seats.",
+              "audio": "audio/gossip/ep05/036.mp3",
+              "emotion": "dry",
+              "easy_en": "I’ve seen how he acts up close.",
+              "jp": "間近で見てきたから。",
+              "note": "“front-row seats” = I saw it directly."
+            },
+            {
+              "speaker": "Nina",
+              "text": "I wasn’t accusing you.",
+              "audio": "audio/gossip/ep05/037.mp3",
+              "emotion": "soft",
+              "easy_en": "I wasn’t blaming you.",
+              "jp": "あなたを責めてたわけじゃないよ。",
+              "note": "Nina clarifies her intention."
+            },
+            {
+              "speaker": "Claire",
+              "text": "I know.",
+              "audio": "audio/gossip/ep05/038.mp3",
+              "emotion": "soft",
+              "easy_en": "I understand.",
+              "jp": "わかってる。",
+              "note": ""
+            },
+            {
+              "speaker": "Nina",
+              "text": "I was worried.",
+              "audio": "audio/gossip/ep05/039.mp3",
+              "emotion": "honest",
+              "easy_en": "I was concerned about you.",
+              "jp": "心配だったの。",
+              "note": ""
+            },
+            {
+              "speaker": "Claire",
+              "text": "I know that too.",
+              "audio": "audio/gossip/ep05/040.mp3",
+              "emotion": "warm",
+              "easy_en": "I understand that as well.",
+              "jp": "それもわかってる。",
+              "note": "Shows Claire appreciates Nina."
+            },
+            {
+              "speaker": "Nina",
+              "text": "So we’re okay?",
+              "audio": "audio/gossip/ep05/041.mp3",
+              "emotion": "seeking",
+              "easy_en": "Are we okay now?",
+              "jp": "じゃあ…私たち大丈夫？",
+              "note": ""
+            },
+            {
+              "speaker": "Claire",
+              "text": "We’re watching the same show now.",
+              "audio": "audio/gossip/ep05/042.mp3",
+              "emotion": "resolved",
+              "easy_en": "Now we’re paying attention to the same problem.",
+              "jp": "今は同じものを見てるってこと。",
+              "note": "Metaphor: they now share the same perspective/target."
+            }
+          ]
         }
       ]
     }
